@@ -1,11 +1,14 @@
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
 
 <template>
-    <div>page body</div>
+  <div class="home">
+    <h1>Welcome to the Home Page</h1>
+  </div>
 </template>
 
 <style lang="scss" scoped>
-
+.home {
+  text-align: center;
+  margin-top: 50px;
+}
 </style>
