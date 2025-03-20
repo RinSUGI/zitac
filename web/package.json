@@ -12,7 +12,9 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "@ant-design-vue/nuxt": "^1.4.6",
     "@nuxt/eslint": "^1.2.0",
+    "ant-design-vue": "^4.2.6",
     "eslint": "^9.22.0",
     "nuxt": "^3.16.1",
     "vue": "^3.5.13",
