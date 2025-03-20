@@ -1,0 +1,4 @@
+node_modules
+app/.nuxt
+app/.output
+app/prisma/
